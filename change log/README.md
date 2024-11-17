@@ -1,12 +1,13 @@
 # Change Log
 
-This is where you should make a note where and what changes were made on your project.
+This folder should be used to make note of any changes that were made on your project. 
 
-### Example Change Log
+## Example Change Log
+### Change Log
 
-| Version     | Date       | Changes                                                                                                                                                                                                                                                                                                                                      |
-| ----------- | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **[1.2.0]** | 2024-11-10 | **Added**: <br> - User authentication via OAuth 2.0 (Google, Facebook) <br> - Export reports as PDF <br> **Changed**: <br> - Refactored payment gateway integration <br> - Updated database schema to support more user metadata <br> **Fixed**: <br> - Fixed password reset email issue <br> - Bug fix for mobile crash with large datasets |
-| **[1.1.1]** | 2024-10-15 | **Fixed**: <br> - Patched SQL injection vulnerability in registration endpoint <br> - Corrected typo in "Contact Us" page validation                                                                                                                                                                                                         |
-| **[1.1.0]** | 2024-09-01 | **Added**: <br> - Multi-language support (Spanish, French) <br> - Dark mode toggle in settings <br> **Changed**: <br> - Improved responsive design for the dashboard <br> - Enhanced search with tag and category filters <br> **Fixed**: <br> - Layout issues in mobile homepage <br> - Fixed slow load times on profile pages              |
-| **[1.0.0]** | 2024-08-01 | - Initial release of the application.    
+| Version     | Release Date | Author         | Summary of Changes                                                                                                                                                                                                                                                                        |
+| ----------- | ------------ | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[1.2.0]** | 2024-11-10   | Natalie Maher    | **New Features**: <br> - Added support for user authentication via OAuth 2.0 (Google, Facebook). <br> - Implemented PDF export for reports. <br> **Updates**: <br> - Refactored payment gateway logic for efficiency. <br> - Updated database schema to support new user metadata fields.    |
+| **[1.1.1]** | 2024-10-15   | Natalie Maher        | **Bug Fixes**: <br> - Resolved SQL injection vulnerability in the registration API. <br> - Corrected validation errors on the "Contact Us" page.                                                                                                                                          |
+| **[1.1.0]** | 2024-09-01   | Natalie Maher    | **New Features**: <br> - Added multi-language support for Spanish and French. <br> - Introduced a dark mode option in settings. <br> **Improvements**: <br> - Enhanced responsive design for mobile devices. <br> - Optimized search with advanced filtering by tags and categories.       |
+| **[1.0.0]** | 2024-08-01   | Development Team | - Initial release of the application with core functionalities, including user management, reporting, and analytics dashboards.                                                                                                                                                            |
